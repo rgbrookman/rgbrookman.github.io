@@ -70,7 +70,7 @@
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const answers = [
-                { title: "Prioritise Issues", text: "Rank problems based on impact on process efficiency, customer satisfaction, and business goals." },
+                { title: "Prioritise Issues TEST", text: "Rank problems based on impact on process efficiency, customer satisfaction, and business goals." },
                 { title: "Analyse Root Causes", text: "Conduct a root cause analysis to understand the underlying factors contributing to the problem." },
                 { title: "Brainstorm Solutions", text: "Generate a range of possible solutions, including both AI and non-AI options. Consider the pros and cons." },
                 { title: "Assess Feasibility", text: "Evaluate solutions based on time, cost, benefits, and alignment with organizational capabilities." },
